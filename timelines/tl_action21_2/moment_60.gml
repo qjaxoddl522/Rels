@@ -1,0 +1,1 @@
+with(obj_door)condition = 0;

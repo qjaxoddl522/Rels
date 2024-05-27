@@ -1,0 +1,2 @@
+audio_stop_all();
+audio_play_sound(snd_intro, 0, true);
